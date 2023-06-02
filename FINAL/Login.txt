@@ -1,0 +1,7 @@
+Name,Password,Tel.Number,Status
+David,razi,0193428300,Normal
+Kamal,nesh,0183749642,Normal
+Taylor,pass12,0123456789,Normal
+James,oopds,01234543234,Normal
+Abdul,mamak,01098765432,Normal
+jason,oops,0193428300,Normal

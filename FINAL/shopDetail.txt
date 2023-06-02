@@ -1,0 +1,5 @@
+No,Name   ,       Tel.number,Manager ,Status
+1,Mydin   ,0383288899,Lee Chin,Normal
+2,CZone   ,0333626863,Abdul Azmin,Normal
+3,Speedmart,0380736000,Krishnan,Normal
+4,Tamarind,0389539554,Sew Ling,Normal
